@@ -1,0 +1,13 @@
+package JenkinsTutorial;
+
+import org.testng.annotations.Test;
+
+public class FlightBooking {
+	
+	@Test
+	public void SimpleProgram()
+	{
+		
+	}
+
+}
