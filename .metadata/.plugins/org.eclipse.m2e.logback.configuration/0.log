@@ -1,1 +1,240 @@
 2018-06-03 14:30:06,647 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2018-06-03 22:21:49,385 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.jar
+2018-06-03 22:21:53,938 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.jar
+2018-06-03 22:21:58,380 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.pom
+2018-06-03 22:21:59,064 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.pom
+2018-06-03 22:21:59,586 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/27/maven-plugins-27.pom
+2018-06-03 22:22:00,191 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/27/maven-plugins-27.pom
+2018-06-03 22:22:00,739 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom
+2018-06-03 22:22:01,494 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom
+2018-06-03 22:22:10,689 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.7/maven-shared-utils-0.7.pom
+2018-06-03 22:22:11,119 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.7/maven-shared-utils-0.7.pom
+2018-06-03 22:22:11,582 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/20/maven-shared-components-20.pom
+2018-06-03 22:22:11,937 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/20/maven-shared-components-20.pom
+2018-06-03 22:22:13,381 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.pom
+2018-06-03 22:22:15,209 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.pom
+2018-06-03 22:22:15,584 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.5/plexus-compiler-2.5.pom
+2018-06-03 22:22:15,899 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.5/plexus-compiler-2.5.pom
+2018-06-03 22:22:16,515 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
+2018-06-03 22:22:16,946 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
+2018-06-03 22:22:17,334 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3/plexus-3.3.pom
+2018-06-03 22:22:17,818 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3/plexus-3.3.pom
+2018-06-03 22:22:18,217 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.pom
+2018-06-03 22:22:18,546 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.pom
+2018-06-03 22:22:18,914 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.pom
+2018-06-03 22:22:19,437 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.pom
+2018-06-03 22:22:19,796 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.5/plexus-compilers-2.5.pom
+2018-06-03 22:22:20,178 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.5/plexus-compilers-2.5.pom
+2018-06-03 22:22:21,474 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.7/maven-shared-utils-0.7.jar
+2018-06-03 22:22:22,993 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.7/maven-shared-utils-0.7.jar
+2018-06-03 22:22:23,296 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.jar
+2018-06-03 22:22:23,721 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.jar
+2018-06-03 22:22:24,112 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.jar
+2018-06-03 22:22:24,566 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.jar
+2018-06-03 22:22:24,868 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.jar
+2018-06-03 22:22:25,362 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.jar
+2018-06-03 22:22:27,001 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:22:31,205 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:22:31,240 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:22:31,247 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:22:31,248 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:22:32,015 [Worker-44] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumAutomation/src
+2018-06-03 22:22:32,019 [Worker-44] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SeleniumAutomation/src/test/java because it overlaps with /SeleniumAutomation/src
+2018-06-03 22:22:33,509 [Worker-44] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-06-03 22:22:36,121 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:22:38,169 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:22:38,189 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:22:38,222 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:22:38,225 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:22:38,238 [Worker-44] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumAutomation/src
+2018-06-03 22:22:38,242 [Worker-44] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SeleniumAutomation/src/test/java because it overlaps with /SeleniumAutomation/src
+2018-06-03 22:22:38,544 [Worker-44] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2018-06-03 22:22:39,335 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:22:39,339 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:22:39,346 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:22:39,353 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:26:09,423 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:26:09,426 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:26:09,429 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:26:09,431 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:27:25,121 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:27:29,468 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:27:29,471 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:27:29,475 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:27:29,497 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:27:31,723 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:27:31,725 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:27:31,728 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:27:31,730 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:27:55,781 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JenkinsLearning\SeleniumAutomation
+2018-06-03 22:27:55,782 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2018-06-03 22:28:18,330 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JenkinsLearning\SeleniumAutomation
+2018-06-03 22:28:18,330 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2018-06-03 22:28:36,126 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JenkinsLearning\SeleniumAutomation
+2018-06-03 22:28:36,127 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2018-06-03 22:29:45,886 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JenkinsLearning\SeleniumAutomation
+2018-06-03 22:29:45,886 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2018-06-03 22:39:20,784 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:39:20,786 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:39:20,789 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:39:20,791 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:39:37,732 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:39:37,735 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:39:37,739 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:39:37,742 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:39:47,108 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JenkinsLearning\SeleniumAutomation
+2018-06-03 22:39:47,109 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2018-06-03 22:41:25,099 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JenkinsLearning\SeleniumAutomation
+2018-06-03 22:41:25,099 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2018-06-03 22:43:44,802 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:43:52,321 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:43:52,323 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:43:52,327 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:43:52,329 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:43:54,477 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:43:54,480 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:43:54,482 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:43:54,485 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:48:35,774 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:48:38,101 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:48:38,104 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:48:38,109 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:48:38,111 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:48:40,005 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:48:40,007 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:48:40,010 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:48:40,013 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:48:57,605 [Worker-56] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-06-03 22:48:59,516 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:49:01,330 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumAutomation/src
+2018-06-03 22:49:01,331 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SeleniumAutomation/src/test/java because it overlaps with /SeleniumAutomation/src
+2018-06-03 22:49:02,042 [Worker-56] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2018-06-03 22:49:03,709 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:49:03,712 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:49:03,718 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:49:03,721 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:51:17,620 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:51:17,622 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:51:17,625 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:51:17,628 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:51:34,325 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-06-03 22:51:35,958 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:51:37,848 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumAutomation/src
+2018-06-03 22:51:37,850 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SeleniumAutomation/src/test/java because it overlaps with /SeleniumAutomation/src
+2018-06-03 22:51:38,476 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2018-06-03 22:51:39,935 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:51:39,937 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:51:39,942 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:51:39,944 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:53:53,139 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:53:55,326 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.11/selenium-java-3.11.pom
+2018-06-03 22:53:55,357 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.seleniumhq.selenium:selenium-java:jar:3.11 is missing, no dependency information available
+2018-06-03 22:53:57,247 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.11/selenium-java-3.11.jar
+2018-06-03 22:53:58,135 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:53:58,138 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:53:58,143 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:53:58,146 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:54:04,877 [Worker-65] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-06-03 22:54:06,437 [Worker-65] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:54:06,448 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.seleniumhq.selenium:selenium-java:jar:3.11 is missing, no dependency information available
+2018-06-03 22:54:07,411 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumAutomation/src
+2018-06-03 22:54:07,412 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SeleniumAutomation/src/test/java because it overlaps with /SeleniumAutomation/src
+2018-06-03 22:54:07,660 [Worker-65] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-06-03 22:54:07,958 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.seleniumhq.selenium:selenium-java:jar:3.11 is missing, no dependency information available
+2018-06-03 22:54:08,095 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:54:08,098 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:54:08,103 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:54:08,105 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:55:21,134 [Worker-65] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:55:24,290 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:55:24,296 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:55:24,317 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:55:24,319 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:55:27,312 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:55:27,315 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:55:27,317 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:55:27,320 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:55:32,374 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-06-03 22:55:34,223 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:55:36,121 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumAutomation/src
+2018-06-03 22:55:36,122 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SeleniumAutomation/src/test/java because it overlaps with /SeleniumAutomation/src
+2018-06-03 22:55:36,604 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2018-06-03 22:55:37,901 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:55:37,904 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:55:37,910 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:55:37,912 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:58:34,834 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:58:36,677 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:58:36,680 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:58:36,683 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:58:36,685 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:58:38,611 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:58:38,613 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:58:38,615 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:58:38,618 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:58:59,739 [Worker-69] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-06-03 22:59:01,456 [Worker-69] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 22:59:03,313 [Worker-69] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumAutomation/src
+2018-06-03 22:59:03,316 [Worker-69] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SeleniumAutomation/src/test/java because it overlaps with /SeleniumAutomation/src
+2018-06-03 22:59:03,970 [Worker-69] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2018-06-03 22:59:05,110 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:59:05,113 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:59:05,117 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:59:05,119 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 22:59:55,356 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:59:55,360 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 22:59:55,362 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 22:59:55,365 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 23:01:04,747 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 23:01:06,556 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 23:01:06,559 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 23:01:06,564 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 23:01:06,566 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 23:01:08,507 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 23:01:08,509 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 23:01:08,511 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 23:01:08,514 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 23:12:06,692 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/maven-surefire-plugin-2.21.0.pom
+2018-06-03 23:12:07,008 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/maven-surefire-plugin-2.21.0.pom
+2018-06-03 23:12:07,331 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.21.0/surefire-2.21.0.pom
+2018-06-03 23:12:07,983 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.21.0/surefire-2.21.0.pom
+2018-06-03 23:12:08,599 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/maven-surefire-plugin-2.21.0.jar
+2018-06-03 23:12:09,230 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/maven-surefire-plugin-2.21.0.jar
+2018-06-03 23:12:09,947 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.21.0/maven-surefire-common-2.21.0.pom
+2018-06-03 23:12:10,271 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.21.0/maven-surefire-common-2.21.0.pom
+2018-06-03 23:12:10,829 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.pom
+2018-06-03 23:12:11,250 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.pom
+2018-06-03 23:12:11,628 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
+2018-06-03 23:12:12,291 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5/maven-plugin-tools-3.5.pom
+2018-06-03 23:12:12,637 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.21.0/surefire-api-2.21.0.pom
+2018-06-03 23:12:12,959 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.21.0/surefire-api-2.21.0.pom
+2018-06-03 23:12:13,555 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.21.0/surefire-logger-api-2.21.0.pom
+2018-06-03 23:12:13,884 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.21.0/surefire-logger-api-2.21.0.pom
+2018-06-03 23:12:14,200 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.21.0/surefire-booter-2.21.0.pom
+2018-06-03 23:12:14,561 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.21.0/surefire-booter-2.21.0.pom
+2018-06-03 23:12:15,796 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.3/plexus-java-0.9.3.pom
+2018-06-03 23:12:16,453 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.3/plexus-java-0.9.3.pom
+2018-06-03 23:12:16,767 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.3/plexus-languages-0.9.3.pom
+2018-06-03 23:12:17,117 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.3/plexus-languages-0.9.3.pom
+2018-06-03 23:12:18,046 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.21.0/maven-surefire-common-2.21.0.jar
+2018-06-03 23:12:20,606 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.21.0/maven-surefire-common-2.21.0.jar
+2018-06-03 23:12:20,931 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.jar
+2018-06-03 23:12:21,291 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5/maven-plugin-annotations-3.5.jar
+2018-06-03 23:12:21,597 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.21.0/surefire-api-2.21.0.jar
+2018-06-03 23:12:22,523 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.21.0/surefire-api-2.21.0.jar
+2018-06-03 23:12:22,851 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.21.0/surefire-logger-api-2.21.0.jar
+2018-06-03 23:12:23,141 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.21.0/surefire-logger-api-2.21.0.jar
+2018-06-03 23:12:23,439 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.21.0/surefire-booter-2.21.0.jar
+2018-06-03 23:12:24,774 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.21.0/surefire-booter-2.21.0.jar
+2018-06-03 23:12:25,060 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.3/plexus-java-0.9.3.jar
+2018-06-03 23:12:25,404 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.3/plexus-java-0.9.3.jar
+2018-06-03 23:15:29,516 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 23:15:31,350 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 23:15:31,352 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 23:15:31,356 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 23:15:31,358 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 23:19:39,212 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumAutomation:AutomationTesting:0.0.1-SNAPSHOT @ C:\JenkinsLearning\SeleniumAutomation\pom.xml.
+2018-06-03 23:19:41,209 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 23:19:41,212 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-03 23:19:41,215 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-03 23:19:41,218 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
