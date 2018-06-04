@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26523" started-at="2018-06-03T19:34:43Z" finished-at="2018-06-03T19:35:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26523" started-at="2018-06-03T19:34:43Z" finished-at="2018-06-03T19:35:10Z">
+      <class name="JenkinsTutorial.FlightBooking">
+        <test-method status="PASS" signature="SimpleProgram()[pri:0, instance:JenkinsTutorial.FlightBooking@3796751b]" name="SimpleProgram" duration-ms="26468" started-at="2018-06-04T01:04:43Z" finished-at="2018-06-04T01:05:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SimpleProgram -->
+      </class> <!-- JenkinsTutorial.FlightBooking -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

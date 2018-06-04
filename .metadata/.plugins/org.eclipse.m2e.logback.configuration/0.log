@@ -238,3 +238,17 @@
 2018-06-03 23:19:41,212 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
 2018-06-03 23:19:41,215 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-06-03 23:19:41,218 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-03 23:40:36,054 [Worker-85] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JenkinsLearning\SeleniumAutomation
+2018-06-03 23:40:36,055 [Worker-85] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2018-06-04 19:38:56,632 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-04 19:38:57,069 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-04 19:38:57,230 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-04 19:38:57,232 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-04 19:39:33,757 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-04 19:39:33,759 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-04 19:39:33,761 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-04 19:39:33,763 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
+2018-06-04 19:41:38,550 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-04 19:41:38,552 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\main\resources
+2018-06-04 19:41:38,565 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-04 19:41:38,582 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JenkinsLearning\SeleniumAutomation\src\test\resources
